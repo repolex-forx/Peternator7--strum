@@ -1,0 +1,11 @@
+{
+  "org": "Peternator7",
+  "repo": "strum",
+  "versions": [
+    {
+      "commit": "7376771128834d28bb9beba5c39846cba62e71ec",
+      "tag": "v0.28.0",
+      "parsed_at": "2026-11-22T00:18:32.772201+00:00"
+    }
+  ]
+}
